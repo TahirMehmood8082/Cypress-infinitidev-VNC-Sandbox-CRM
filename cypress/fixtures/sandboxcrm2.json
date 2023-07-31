@@ -1,0 +1,14 @@
+[
+    {
+        "username": "xyz",
+        "password": "NewPass6543",
+        "expected": "Either no user with the given username could be found, or the password"
+    },
+      
+    {
+        "username": " admin.test2",
+        "password": "xyz",
+        "expected": "Either no user with the given username could be found, or the password"
+    }
+
+]
